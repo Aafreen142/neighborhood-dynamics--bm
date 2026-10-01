@@ -32,8 +32,8 @@ export function ProjectHero() {
         </div>
         <div className="relative aspect-[4/3] w-full flex-1 overflow-hidden rounded-xl border border-border">
           <Image
-            src="/images/neighborhood-homes.png"
-            alt="A residential street lined with single-family homes and trees"
+            src="/images/townhouses.jpeg"
+            alt="A row of modern wood-clad townhouses with dark gabled roofs along a quiet street at sunset"
             fill
             priority
             sizes="(min-width: 768px) 50vw, 100vw"
