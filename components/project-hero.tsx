@@ -10,8 +10,9 @@ export function ProjectHero() {
             Project Overview
           </p>
           <h1 className="text-balance text-4xl font-semibold tracking-tight text-foreground md:text-6xl">
-            Neighborhood Dynamics
-          </h1>
+  Neighborhood Dynamics
+  </h1>
+  <p className="-mt-3 text-lg font-medium text-primary">Now on GitHub</p>
           <p className="max-w-xl text-pretty text-lg leading-relaxed text-muted-foreground">
             An overview to understand how property characteristics and school
             access shape housing prices and neighborhood quality.
